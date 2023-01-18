@@ -1,0 +1,23 @@
+{
+  "name": "@your/assets",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Manage YOUR static assets",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/pwa.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-network/assets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/your-network/assets/issues"
+  },
+  "homepage": "https://github.com/your-network/assets#readme",
+  "dependencies": {
+    "pwa-asset-generator": "^6.2.1"
+  }
+}
