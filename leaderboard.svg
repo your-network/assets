@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/interface/settings/grey/200 3</title>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="~wiki/community--public-profile" transform="translate(-44.000000, -318.000000)" stroke="#9DB6B8" stroke-width="1.5">
+            <g id="sidebar" transform="translate(0.000000, 101.000000)">
+                <g id="item" transform="translate(40.000000, 213.000000)">
+                    <g id="trophy" transform="translate(5.000000, 5.000000)">
+                        <path d="M11.75,2 L11.8536,2 C13.3152,2 14.5,3.18483 14.5,4.64639 C14.5,5.7592 13.8038,6.7532 12.758,7.1335 L11.75,7.5" id="Path"></path>
+                        <path d="M2.75,2 L2.64639,2 C1.18483,2 0,3.18483 0,4.64639 C0,5.7592 0.69618,6.7532 1.74201,7.1335 L2.75,7.5" id="Path"></path>
+                        <path d="M3,0 L11.5,0 L11.5,6.25 C11.5,8.5972 9.5972,10.5 7.25,10.5 C4.90279,10.5 3,8.5972 3,6.25 L3,0 Z" id="Path"></path>
+                        <line x1="7.25" y1="10.75" x2="7.25" y2="14.25" id="Path"></line>
+                        <line x1="4" y1="14.5" x2="10.5" y2="14.5" id="Path"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

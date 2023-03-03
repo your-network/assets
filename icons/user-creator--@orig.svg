@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/interface/account_circle/grey/200 2</title>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="~wiki/community--public-profile" transform="translate(-44.000000, -367.000000)" stroke="#9DB6B8" stroke-width="1.5">
+            <g id="sidebar" transform="translate(0.000000, 101.000000)">
+                <g id="item" transform="translate(40.000000, 262.000000)">
+                    <g id="new-hire" transform="translate(5.000000, 5.000000)">
+                        <path d="M2.25,14.75 C2.25,14.75 3.825,12.25 7.5,12.25 C11.175,12.25 12.75,14.75 12.75,14.75 M7.5,0.25 L7.5,0.75 M11.125,1.221 L10.875,1.654 M13.779,3.874 L13.346,4.124 M14.75,7.5 L14.25,7.5 M13.779,11.125 L13.346,10.875 M1.654,10.875 L1.221,11.125 M0.75,7.5 L0.25,7.5 M1.654,4.125 L1.221,3.875 M4.125,1.655 L3.875,1.221 M9.75,7.5 C9.75,8.74264069 8.74264069,9.75 7.5,9.75 C6.25735931,9.75 5.25,8.74264069 5.25,7.5 C5.25,6.25735931 6.25735931,5.25 7.5,5.25 C8.74264069,5.25 9.75,6.25735931 9.75,7.5 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

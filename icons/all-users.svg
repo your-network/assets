@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="11px" viewBox="0 0 16 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons/interface/settings/grey/200 4</title>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="~wiki/community--public-profile" transform="translate(-44.000000, -270.000000)" stroke="#9DB6B8" stroke-width="1.5">
+            <g id="sidebar" transform="translate(0.000000, 101.000000)">
+                <g id="item" transform="translate(40.000000, 162.000000)">
+                    <g id="crowd" transform="translate(5.000000, 8.000000)">
+                        <ellipse id="Oval" cx="3.23076923" cy="1.73076923" rx="1.79487179" ry="1.73076923"></ellipse>
+                        <ellipse id="Oval" cx="10.4102564" cy="1.73076923" rx="1.79487179" ry="1.73076923"></ellipse>
+                        <path d="M6.82051282,9 C6.82051282,9 6.46155282,5.53846154 3.23076923,5.53846154 C0,5.53846154 0,9 0,9" id="Path"></path>
+                        <path d="M14,9 C14,9 13.6410256,5.53846154 10.4102564,5.53846154 C7.17947282,5.53846154 6.82051282,9 6.82051282,9" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
