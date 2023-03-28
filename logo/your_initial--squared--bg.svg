@@ -8,12 +8,15 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="21.170967"
-   height="23.857447"
-   viewBox="0 0 21.170967 23.857447"
+   width="1200"
+   height="1200"
+   viewBox="0 0 1200 1200"
    version="1.1"
    id="svg17"
-   sodipodi:docname="your-initial.svg"
+   sodipodi:docname="your--initial-neg.svg"
+   inkscape:export-filename="/media/data/Web/Projects/Your/assets/logos/your--neg-squared.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata21">
@@ -40,13 +43,9 @@
      inkscape:window-height="1025"
      id="namedview19"
      showgrid="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:zoom="3.8255814"
-     inkscape:cx="14.115635"
-     inkscape:cy="11.357447"
+     inkscape:zoom="0.25"
+     inkscape:cx="-145.18375"
+     inkscape:cy="232.87743"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -55,6 +54,40 @@
      id="title2">logo/your/new-gradient</title>
   <defs
      id="defs11">
+    <linearGradient
+       id="linearGradient888"
+       y2="0.54981023"
+       x2="1.0854942"
+       y1="0.43515122"
+       x1="-0.26243865">
+      <stop
+         stop-color="#2E7A6E"
+         offset="0.48715776"
+         id="stop884" />
+      <stop
+         stop-color="#88CAB9"
+         offset="1"
+         id="stop882" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient860"
+       y2="0.54981023"
+       x2="1.0854942"
+       y1="0.43515122"
+       x1="-0.26243865">
+      <stop
+         stop-color="#2B7368"
+         offset="-99"
+         id="stop858" />
+      <stop
+         stop-color="#2E7A6E"
+         offset="0.44366443"
+         id="stop856" />
+      <stop
+         stop-color="#88CAB9"
+         offset="1"
+         id="stop854" />
+    </linearGradient>
     <linearGradient
        x1="-0.26243865"
        y1="0.43515122"
@@ -76,52 +109,40 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient-1"
-       id="linearGradient833"
-       x1="-5.3787098"
-       y1="20.091433"
-       x2="17.268461"
-       y2="20.091433"
-       gradientTransform="scale(1.8620155,0.53705246)"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient-1"
-       id="linearGradient835"
-       x1="-5.8982148"
-       y1="9.7796326"
-       x2="24.395365"
-       y2="12.356491"
-       gradientTransform="scale(0.9420162,1.0615529)"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient-1"
-       id="linearGradient837"
-       x1="163.95024"
-       y1="40.866165"
-       x2="194.24382"
-       y2="43.443024"
-       gradientTransform="scale(0.9420162,1.0615529)"
+       xlink:href="#linearGradient888"
+       id="linearGradient852"
+       x1="1401.7681"
+       y1="1037.4939"
+       x2="-402.94617"
+       y2="423.39279"
        gradientUnits="userSpaceOnUse" />
   </defs>
+  <rect
+     style="opacity:1;vector-effect:none;fill:url(#linearGradient852);fill-opacity:1.0;stroke:none;stroke-width:2.56401134;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+     id="rect837"
+     width="1200"
+     height="1200"
+     x="0"
+     y="-1.1368684e-13" />
   <g
      id="Symbols"
-     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
-     transform="translate(1.3378309e-4)">
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1"
+     transform="matrix(33.532507,0,0,33.532507,245.04668,200)"
+     inkscape:export-xdpi="95.969383"
+     inkscape:export-ydpi="95.969383">
     <g
        id="section-nav/dark"
        transform="translate(-160,-33)"
-       style="fill:url(#linearGradient837)">
+       style="fill:#ffffff">
       <g
          id="logo/your/new-gradient"
          transform="translate(160,33)"
-         style="fill:url(#linearGradient835)">
+         style="fill:#ffffff">
         <path
            d="m 7.2845185,0 c 0.1884568,0 0.3631111,0.1 0.4581358,0.26276596 v 0 L 10.032272,4.175 l 4.068543,6.980851 v 12.169681 c 0,0.293617 -0.237827,0.531915 -0.530864,0.531915 v 0 H 7.7707901 c -0.2935679,0 -0.5308642,-0.238298 -0.5308642,-0.531915 v 0 -10.809575 c 0,-0.09894 -0.027605,-0.196276 -0.08016,-0.280319 v 0 L 0.08069136,0.81223404 C -0.13908642,0.45797872 0.11519753,0 0.53192593,0 V 0 Z M 20.639151,0.07984043 c 0.385976,0 0.633258,0.39443117 0.491074,0.734841 l -0.03984,0.077393 -5.182827,8.38457447 c -0.19319,0.3125444 -0.62726,0.3332263 -0.853646,0.067782 L 14.997657,9.2649468 11.765756,3.7186702 C 11.685241,3.5803723 11.671822,3.41474 11.725806,3.2676384 l 0.04048,-0.08567 1.660544,-2.83936172 c 0.07919,-0.1356383 0.213673,-0.22768912 0.365362,-0.254605 l 0.09277,-0.008161 z"
            id="Combined-Shape"
-           style="fill:url(#linearGradient833)"
            inkscape:connector-curvature="0"
+           style="fill:#ffffff;fill-opacity:1"
            sodipodi:nodetypes="sccccsccsccscccccsscccccccccccs" />
       </g>
     </g>
