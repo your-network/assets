@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>chart</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="icons/interface/statistics/grey/200" transform="translate(-4.250000, -4.250000)" stroke="#9DB6B8" stroke-width="1.5">
+            <g id="chart" transform="translate(5.000000, 5.000000)">
+                <path d="M0,2 C0,0.89543 0.89543,0 2,0 L12.5,0 C13.6046,0 14.5,0.89543 14.5,2 L14.5,12.5 C14.5,13.6046 13.6046,14.5 12.5,14.5 L2,14.5 C0.89543,14.5 0,13.6046 0,12.5 L0,2 Z" id="Path"></path>
+                <line x1="4" y1="10.5" x2="4" y2="7" id="Path"></line>
+                <line x1="10.5" y1="10.5" x2="10.5" y2="5" id="Path"></line>
+                <line x1="7.25" y1="10.5" x2="7.25" y2="8" id="Path"></line>
+            </g>
+        </g>
+    </g>
+</svg>
