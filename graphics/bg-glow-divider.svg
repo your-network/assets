@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="612px" height="129px" viewBox="0 0 612 129" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>divider-glow</title>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#51B2AB" offset="0%"></stop>
+            <stop stop-color="#287A73" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="50%" cy="3.33066907e-14%" fx="50%" fy="3.33066907e-14%" r="100%" gradientTransform="translate(0.5, 0), scale(0.2075, 1), rotate(90), scale(1, 2.4241), translate(-0.5, -0)" id="radialGradient-2">
+            <stop stop-color="#3FC0B5" offset="0%"></stop>
+            <stop stop-color="#011113" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="3.33066907e-14%" fx="50%" fy="3.33066907e-14%" r="100%" gradientTransform="translate(0.5, 0), scale(0.2075, 1), rotate(90), scale(1, 2.4241), translate(-0.5, -0)" id="radialGradient-3">
+            <stop stop-color="#26736D" offset="0%"></stop>
+            <stop stop-color="#011113" stop-opacity="0.9" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="ICO" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Home-Default-Dark" transform="translate(-474, -9024)">
+            <g id="section-CTA" transform="translate(369, 9025)">
+                <g id="divider-glow" transform="translate(105, 0)">
+                    <line x1="209.5" y1="0.5" x2="402.5" y2="0.5" id="Line-2" stroke="url(#linearGradient-1)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <rect id="Rectangle" fill="url(#radialGradient-2)" opacity="0.25" x="0" y="1" width="612" height="127"></rect>
+                    <rect id="Rectangle" fill="url(#radialGradient-3)" opacity="0.25" x="0" y="0" width="612" height="127"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

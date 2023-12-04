@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="308px" viewBox="0 0 1024 308" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>graphFull</title>
+    <defs>
+        <radialGradient cx="100%" cy="3.59962956e-12%" fx="100%" fy="3.59962956e-12%" r="580.756826%" gradientTransform="translate(1, 0), scale(0.1974, 1), rotate(169.0079), scale(1, 0.4059), translate(-1, -0)" id="radialGradient-1">
+            <stop stop-color="#BAE8E4" offset="0%"></stop>
+            <stop stop-color="#011113" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="50%" y1="7.59223967e-14%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#CFE4E3" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#CFE4E3" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-3" points="86 266 194 252 300.92849 242.773633 409.918696 232.90662 517.438523 175.496504 588.476228 163.851694 588.25 280 1.8189894e-12 280"></polygon>
+        <linearGradient x1="50%" y1="42.4145175%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#0D2623" offset="0%"></stop>
+            <stop stop-color="#011113" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#3FC0B5" offset="0%"></stop>
+            <stop stop-color="#73E1DB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-6">
+            <stop stop-color="#287A73" offset="0%"></stop>
+            <stop stop-color="#CEF3EE" stop-opacity="0.25" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="ICO" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Home-Default-Dark" transform="translate(-268, -3677)">
+            <g id="Group-9" transform="translate(267, 3422)">
+                <g id="graphFull" transform="translate(1, 256)">
+                    <g id="graph" transform="translate(121, 0)">
+                        <g id="Rectangle">
+                            <use fill="url(#radialGradient-1)" xlink:href="#path-3"></use>
+                            <use fill="url(#linearGradient-2)" xlink:href="#path-3"></use>
+                        </g>
+                        <polygon id="Rectangle" fill="url(#linearGradient-4)" points="587.794348 163.799547 625.422842 157.63132 734.073931 123.869683 841.717826 42.4210145 901 5.68434189e-13 901 280 587.5 280"></polygon>
+                        <line x1="587.5" y1="279.5" x2="587.5" y2="181.5" id="Line" stroke="url(#linearGradient-5)" stroke-linecap="square" stroke-dasharray="3,5"></line>
+                        <polyline id="Rectangle" stroke="url(#linearGradient-6)" points="-4.32254059e-13 280 105.197614 263.51142 194 252 300.92849 242.773633 409.918696 232.90662 517.438523 175.496504 588.560395 163.837897"></polyline>
+                        <path d="M588.505958,163.846821 L626.422842,157.63132 L735.073931,123.869683 L842.717826,42.4210145 L902,0" id="Rectangle" stroke="#1D5752" stroke-dasharray="4"></path>
+                    </g>
+                    <g id="Group-57" transform="translate(0, 12)" fill="#1D5752" font-family="Manrope-Medium, Manrope" font-size="12" font-weight="400" letter-spacing="1" line-spacing="16">
+                        <text id="100-mln">
+                            <tspan x="0" y="13">100 MLN</tspan>
+                        </text>
+                        <text id="50-mln">
+                            <tspan x="8" y="84">50 MLN</tspan>
+                        </text>
+                        <text id="25-mln">
+                            <tspan x="8" y="153">25 MLN</tspan>
+                        </text>
+                        <text id="5-mln">
+                            <tspan x="18" y="222">5 MLN</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-58" transform="translate(76, 291)" fill="#1D5752" font-family="Manrope-Medium, Manrope" font-size="12" font-weight="400" letter-spacing="1" line-spacing="16">
+                        <text id="2021">
+                            <tspan x="0" y="13">2021</tspan>
+                        </text>
+                        <text id="2022">
+                            <tspan x="289" y="13">2022</tspan>
+                        </text>
+                        <text id="2023">
+                            <tspan x="577" y="13">2023</tspan>
+                        </text>
+                        <text id="2024">
+                            <tspan x="869" y="13">2024</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

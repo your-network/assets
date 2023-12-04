@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="824px" height="905px" viewBox="0 0 824 905" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>header-glares</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#27645F" offset="0%"></stop>
+            <stop stop-color="#113431" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-8.5%" y="-9.7%" width="117.0%" height="119.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="20" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#27645F" offset="0%"></stop>
+            <stop stop-color="#113431" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-75.0%" y="-7.7%" width="250.0%" height="115.4%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="20" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#27645F" offset="0%"></stop>
+            <stop stop-color="#113431" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-176.5%" y="-11.5%" width="452.9%" height="123.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="20" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-176.5%" y="-11.5%" width="452.9%" height="123.0%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="20" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-8">
+            <stop stop-color="#27645F" offset="0%"></stop>
+            <stop stop-color="#113431" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-176.5%" y="-5.8%" width="452.9%" height="111.5%" filterUnits="objectBoundingBox" id="filter-9">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-176.5%" y="-5.8%" width="452.9%" height="111.5%" filterUnits="objectBoundingBox" id="filter-10">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-11">
+            <stop stop-color="#27645F" offset="0%"></stop>
+            <stop stop-color="#113431" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-37.7%" y="-7.7%" width="175.5%" height="115.4%" filterUnits="objectBoundingBox" id="filter-12">
+            <feGaussianBlur stdDeviation="20" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-13">
+            <stop stop-color="#27645F" offset="0%"></stop>
+            <stop stop-color="#113431" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-23.2%" y="-11.2%" width="146.3%" height="122.5%" filterUnits="objectBoundingBox" id="filter-14">
+            <feGaussianBlur stdDeviation="20" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="ICO" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Home-Default-Dark" transform="translate(-741, 135)">
+            <g id="section-nav" transform="translate(0, -134.6824)">
+                <g id="header-glares" transform="translate(806.8701, 0)">
+                    <ellipse id="Oval" fill="url(#linearGradient-1)" opacity="0.2" filter="url(#filter-2)" transform="translate(378.7186, 365.277) rotate(5) translate(-378.7186, -365.277)" cx="378.718587" cy="365.276982" rx="353" ry="310.5"></ellipse>
+                    <ellipse id="Oval" fill="url(#linearGradient-3)" opacity="0.3" filter="url(#filter-4)" transform="translate(595.5121, 409.1726) rotate(10) translate(-595.5121, -409.1726)" cx="595.512055" cy="409.172613" rx="40" ry="389"></ellipse>
+                    <ellipse id="Oval" fill="url(#linearGradient-5)" opacity="0.5" filter="url(#filter-6)" transform="translate(416.4764, 334.6187) rotate(10) translate(-416.4764, -334.6187)" cx="416.476424" cy="334.618725" rx="17" ry="260.5"></ellipse>
+                    <ellipse id="Oval" fill="url(#linearGradient-5)" opacity="0.5" filter="url(#filter-7)" transform="translate(553.4764, 460.6187) rotate(10) translate(-553.4764, -460.6187)" cx="553.476424" cy="460.618725" rx="17" ry="260.5"></ellipse>
+                    <ellipse id="Oval" fill="url(#linearGradient-8)" filter="url(#filter-9)" transform="translate(525.8473, 336.0947) rotate(10) translate(-525.8473, -336.0947)" cx="525.84729" cy="336.094735" rx="8.5" ry="260.5"></ellipse>
+                    <ellipse id="Oval" fill="url(#linearGradient-8)" filter="url(#filter-10)" transform="translate(260.8473, 348.0947) rotate(-4) translate(-260.8473, -348.0947)" cx="260.84729" cy="348.094735" rx="8.5" ry="260.5"></ellipse>
+                    <ellipse id="Oval" fill="url(#linearGradient-11)" opacity="0.3" filter="url(#filter-12)" transform="translate(301.6299, 437.6824) rotate(-10) translate(-301.6299, -437.6824)" cx="301.629913" cy="437.682409" rx="79.5" ry="389"></ellipse>
+                    <ellipse id="Oval" fill="url(#linearGradient-13)" opacity="0.3" filter="url(#filter-14)" cx="454.870301" cy="267" rx="129.5" ry="267"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

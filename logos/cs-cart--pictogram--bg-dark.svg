@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>05</title>
+    <defs>
+        <linearGradient x1="14.7856895%" y1="85.2169277%" x2="85.2181722%" y2="14.7842952%" id="linearGradient-1">
+            <stop stop-color="#7381FD" offset="0%"></stop>
+            <stop stop-color="#76C7FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="ICO" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Home-Default-Dark" transform="translate(-846, -3131)">
+            <g id="code-integration" transform="translate(657, 3023)">
+                <g id="logos" transform="translate(21, 108)">
+                    <g id="05" transform="translate(168, 0)">
+                        <rect id="Rectangle" fill="#040B0B" x="0" y="0" width="50" height="50" rx="8"></rect>
+                        <path d="M40,19.9811333 L40,35.6046531 C40,37.4803998 38.4803129,39 36.6045685,39 L20.9810683,39 C19.105324,39 17.585699,37.4803998 17.585699,35.6046531 L17.585699,19.9811333 C17.585699,18.1053244 19.105324,16.5857064 20.9810683,16.5857064 L36.6045685,16.5857064 C38.4803129,16.5857064 40,18.1053244 40,19.9811333 Z M14.3953782,10 C12.5196071,10 11,11.5196171 11,13.3953816 C11,15.271155 12.5196071,16.7907729 14.3953782,16.7907729 C16.2711492,16.7907729 17.7907564,15.271155 17.7907564,13.3953816 C17.7907564,11.5196171 16.2711492,10 14.3953782,10 Z" id="Shape" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
